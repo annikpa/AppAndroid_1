@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     A1 a1 = new A1();
 
+    //Обработка нажатия кнопки
     @Override
     public void onClick(View v) {
         //A1 a1 = new A1();
